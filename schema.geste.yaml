@@ -1,7 +1,0 @@
-$schema: https://json-schema.org/draft/2020-12/schema
-title: Travaux de rénovation énergétique
-type: object
-properties:
-  id:
-    title: 
-required:
