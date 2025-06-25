@@ -1,0 +1,19 @@
+$schema: https://json-schema.org/draft/2020-12/schema
+title: Signalement
+type: object
+properties:
+  geste_id:
+    title: Identifiant du geste de travaux
+    type: string
+    format: uuid
+  date_signalement:
+    title: Date du signalement
+    type: string
+    format: date
+  description:
+    title: Description du signalement
+    type: string
+required:
+  - geste_id
+  - date_signalement
+  - description

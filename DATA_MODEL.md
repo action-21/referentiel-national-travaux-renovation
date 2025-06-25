@@ -32,13 +32,12 @@ Un Geste DOIT être associé à un bâtiment référencé au Référentiel Natio
 - Identifiant unique du Geste au RNT
 - Dénomination du Poste
 - Dénomination du Geste
-- Etat d'avancement du Geste :
+- Statut du Geste :
   - Geste engagé
   - Geste achevé
-  - Geste abandonné
 - Date d'engagement du Geste :
   - Date de signature du devis OU date de début des travaux (auto rénovation)
-- Date d'achèvement du Geste :
+- Date de réalisation du Geste :
   - Date de la facture OU date de fin des travaux (auto rénovation)
 - Adresse du logement ayant fait l'objet des travaux
 - Identifiant du bâtiment au Référentiel National des Bâtiments
@@ -67,3 +66,48 @@ Un Geste DOIT être associé à un bâtiment référencé au Référentiel Natio
 - Quantité installé
 - Puissance nominale du générateur installé exprimée en kW
 - Coefficient de performance énergétique saisonnier
+
+## Modélisation
+
+```mermaid
+
+classDiagram
+  class Poste {
+    <<enum>>
+  }
+  class Geste {
+    <<enum>>
+  }
+  class Statut {
+    <<enum>>
+  }
+  class Adresse {
+      +id: string
+      +numero: ?string
+      +rep: ?string
+      +nom_voie: string
+      +code_insee: string
+      +code_postal: string
+      +nom_commune: string
+  }
+  class Batiment {
+      +id: string
+      +is_active: boolean
+  }
+  class Declaration {
+    id: string
+    poste: Poste
+    geste: Geste
+    statut: Statut
+    date_engagement: Date
+    date_realisation: ?Date
+    adresse: Adresse
+    batiment: Batiment
+  }
+
+  Declaration --o Poste
+  Declaration --o Geste
+  Declaration --o Statut
+  Declaration --o Adresse
+  Declaration --o Batiment
+```

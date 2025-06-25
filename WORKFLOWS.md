@@ -6,7 +6,7 @@ L'usager est ici identifié comme le maître d'ouvrage.
 
 Plateforme officielle du Référentiel National des Travaux de Rénovation.
 
-## Étapes
+## Vue d'ensemble
 
 ```mermaid
 flowchart TB
@@ -29,27 +29,60 @@ flowchart TB
     C -.-> C3
 ```
 
+## Actions
+
 ### Connexion
 
 - FranceConnect (recommandé)
 - Email / Mot de passe
 
-### Déclaration des travaux engagés
+### Déclaration d'un geste engagé
 
-- Description des travaux
-- Renseignement des entreprises (facultatif)
+#### Prérequis
 
-### Déclaration des travaux réalisés
+- [Connexion](#connexion)
 
-- Description des travaux
-- Renseignement des entreprises (facultatif)
+#### Étapes
+
+1. Sélection du poste de travaux
+2. Sélection du geste de travaux
+3. Description des travaux
+4. Validation
+
+### Déclaration d'un geste réalisé
+
+#### Prérequis
+
+- [Connexion](#connexion)
+- [Déclaration d'un geste engagé](#déclaration-dun-geste-engagé)
+
+#### Étapes
+
+1. Sélection du geste engagé
+2. Correction des informations
+3. Validation
 
 ### Signalements
 
-- Malfaçons
-- Tentative de fraude
+#### Prérequis
 
-### Lien de partage des travaux
+- [Connexion](#connexion)
+- [Déclaration d'un geste engagé](#déclaration-dun-geste-engagé)
 
-- Financement
-- Contrôle
+#### Étapes
+
+1. Sélection du geste engagé ou réalisé
+2. Description du signalement
+3. Validation
+
+### Partage des informations
+
+#### Prérequis
+
+- [Connexion](#connexion)
+- [Déclaration d'un geste engagé](#déclaration-dun-geste-engagé)
+
+#### Étapes
+
+1. Sélection du geste engagé ou réalisé
+2. Génération du lien de partage
