@@ -1,19 +1,27 @@
-# Définitions des travaux de rénovation
+# Définitions utilisées
 
-Sont listées ici les définitions des travaux de rénovation énergétique exploitables dans le cadre de la mise en place du référentiel national des travaux. N'hésitez pas à nous suggérer d'ajouter des définitions qui n'apparaisseraient pas ici.
+Sont ici définies les principales notions métiers utilisées dans le cadre du projet :
 
-## [b du 17° bis de l'article L111-1 du code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043976954)
+- Le **Poste** désigne une catégorie ou un ensemble de travaux regroupés par type d'intervention ou par zone du bâtiment. Exemple : Une rénovation performante doit traiter l'ensemble des **postes** de travaux.
+
+- Le **Geste** désigne une action spécifique ou à une intervention technique visant à améliorer la performance énergétique d'un bâtiment. Exemple : Une rénovation performante est un ensemble de **gestes** qui visent à atteindre une performance minimale.
+
+- Un **Signalement** désigne une irrégularité dans le parcours de travaux constatée par le maître d'ouvrage. Exemple : La non transmission d'une facture à l'issue des travaux à fait l'objet d'un **Signalement** par le maître d'ouvrage.
+
+## Sources
+
+### [b du 17° bis de l'article L111-1 du code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043976954)
 
 > L'étude des six postes de travaux de rénovation énergétique suivants : l'isolation des murs, l'isolation des planchers bas, l'isolation de la toiture, le remplacement des menuiseries extérieures, la ventilation, la production de chauffage et d'eau chaude sanitaire ainsi que les interfaces associées.
 
-## [Arrêté du 22 décembre 2014 définissant les opérations standardisées d'économies d'énergie](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000029953752/)
+### [Arrêté du 22 décembre 2014 définissant les opérations standardisées d'économies d'énergie](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000029953752/)
 
 Pour faciliter la lecture des opérations standardisées d'économies d'énergie :
 
 - [Opérations standardisées d'économies d'énergie](https://www.ecologie.gouv.fr/politiques-publiques/operations-standardisees-deconomies-denergie#catalogue-des-fiches-doperations-standardisees-cee-2)
 - [Fiches d'opérations standardisées d'économies d'énergie](https://github.com/action-21/fiches-operations-standardisees)
 
-## [Annexe 1 du décret n° 2020-26 du 14 janvier 2020 relatif à la prime de transition énergétique](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000048860044)
+### [Annexe 1 du décret n° 2020-26 du 14 janvier 2020 relatif à la prime de transition énergétique](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000048860044)
 
 > DÉPENSES ÉLIGIBLES À LA PRIME DE TRANSITION ÉNERGÉTIQUE
 >

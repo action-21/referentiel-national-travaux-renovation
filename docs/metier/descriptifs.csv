@@ -1,0 +1,11 @@
+﻿categorie;descriptif;codification
+Quantité;Nombre d'éléments installés dont les descriptifs sont identiques;nombre
+Quantité;Surface utile couverte par l'élément installé exprimée en m²;surface
+Quantité;Nombre de logements raccordés à l'élément installé;logements
+Quantité;Puissance nominale de l'élément installé exprimée en kW;puissance
+Quantité;Longueur de l'élément installé exprimé en m;longueur
+Performance;Coefficient de transmission surfacique de l'élément installé exprimé en W/m².K;coefficient_surfacique
+Performance;Résistance thermique de l'élément installé exprimée en m².K/W;resistance_thermique
+Performance;Coefficient d'efficacité rigorifique saisonnière de l'élément installé;seer
+Performance;Coefficient d'efficacité énergétique saisonnière de l'élément installé exprimé en %;etas
+Performance;Coefficient de performance énergétique saisonnier de l'élément installé;scop

@@ -1,0 +1,50 @@
+﻿poste;geste;minuscule;normalisation;slugify
+Menuiseries extérieures;Fenêtre et porte-fenêtres;fenêtre et porte-fenêtres;fenetre et porte-fenetres;fenetre-porte-fenetres
+Menuiseries extérieures;Porte;porte;porte;porte
+Ventilation;Ventilation hybride;ventilation hybride;ventilation hybride;ventilation-hybride
+Ventilation;Ventilation mécanique centralisée simple flux;ventilation mécanique centralisée simple flux;ventilation mecanique centralisee simple flux;ventilation-mecanique-centralisee-simple-flux
+Ventilation;Ventilation mécanique centralisée double flux;ventilation mécanique centralisée double flux;ventilation mecanique centralisee double flux;ventilation-mecanique-centralisee-double-flux
+Ventilation;Ventilation mécanique répartie;ventilation mécanique répartie;ventilation mecanique repartie;ventilation-mecanique-repartie
+Réseau;Conduit d'évacuation des produits de combustion;conduit d'évacuation des produits de combustion;conduit d'evacuation des produits de combustion;conduit-evacuation-produits-combustion
+Réseau;Isolation d'un réseau de chauffage;isolation d'un réseau de chauffage;isolation d'un reseau de chauffage;isolation-reseau-chauffage
+Réseau;Isolation d'un réseau d'eau chaude sanitaire;isolation d'un réseau d'eau chaude sanitaire;isolation d'un reseau d'eau chaude sanitaire;isolation-reseau-eau-chaude-sanitaire
+Réseau;Isolation d'un point singulier d'un réseau;isolation d'un point singulier d'un réseau;isolation d'un point singulier d'un reseau;isolation-point-singulier-reseau
+Réseau;Optimiseur de relance;optimiseur de relance;optimiseur de relance;optimiseur-relance
+Réseau;Récupérateur de chaleur à condensation;récupérateur de chaleur à condensation;recuperateur de chaleur a condensation;recuperateur-chaleur-condensation
+Réseau;Système de variation électronique de vitesse sur une pompe;système de variation électronique de vitesse sur une pompe;systeme de variation electronique de vitesse sur une pompe;systeme-variation-electronique-vitesse-sur-une-pompe
+Refroidissement;Climatiseur;climatiseur;climatiseur;climatiseur
+Refroidissement;Réseau de froid;réseau de froid;reseau de froid;reseau-froid
+Régulation;Régulation par sonde de température extérieure;régulation par sonde de température extérieure;regulation par sonde de temperature exterieure;regulation-sonde-temperature-exterieure
+Régulation;Robinet thermostatique;robinet thermostatique;robinet thermostatique;robinet-thermostatique
+Régulation;Système de comptage d'énergie de chauffage;système de comptage d'énergie de chauffage;systeme de comptage d'energie de chauffage;systeme-comptage-energie-chauffage
+Régulation;Système de régulation par programmation d'intermittence;système de régulation par programmation d'intermittence;systeme de regulation par programmation d'intermittence;systeme-regulation-programmation-intermittence
+Régulation;Système de régulation de la consommation d'un chauffe-eau électrique à effet Joule;système de régulation de la consommation d'un chauffe-eau électrique à effet joule;systeme de regulation de la consommation d'un chauffe-eau electrique a effet joule;systeme-regulation-consommation-chauffe-eau-electrique-effet-joule
+Protections solaires;Fermeture isolante;fermeture isolante;fermeture isolante;fermeture-isolante
+Protections solaires;Protection solaire des façades;protection solaire des façades;protection solaire des façades;protection-solaire-façades
+Protections solaires;Protection solaire des ouvrants;protection solaire des ouvrants;protection solaire des ouvrants;protection-solaire-ouvrants
+Protections solaires;Protection solaire d'une toiture;protection solaire d'une toiture;protection solaire d'une toiture;protection-solairee-toiture
+Isolation des combles et toitures;Isolation des planchers de combles perdus;isolation des planchers de combles perdus;isolation des planchers de combles perdus;isolation-planchers-combles-perdus
+Isolation des combles et toitures;Isolation des rampants de toiture par l'extérieur;isolation des rampants de toiture par l'extérieur;isolation des rampants de toiture par l'exterieur;isolation-rampants-toiture-exterieur
+Isolation des combles et toitures;Isolation des rampants de toiture par l'intérieur;isolation des rampants de toiture par l'intérieur;isolation des rampants de toiture par l'interieur;isolation-rampants-toiture-interieur
+Isolation des combles et toitures;Isolation d'une toiture terrasse par l'extérieur;isolation d'une toiture terrasse par l'extérieur;isolation d'une toiture terrasse par l'exterieur;isolatione-toiture-terrasse-exterieur
+Isolation des murs;Isolation des murs par l'extérieur;isolation des murs par l'extérieur;isolation des murs par l'exterieur;isolation-murs-exterieur
+Isolation des murs;Isolation des murs par l'intérieur;isolation des murs par l'intérieur;isolation des murs par l'interieur;isolation-murs-interieur
+Isolation des planchers bas;Isolation d'un plancher par l'extérieur;isolation d'un plancher par l'extérieur;isolation d'un plancher par l'exterieur;isolation-plancher-exterieur
+Isolation des planchers bas;Isolation d'un plancher par l'intérieur;isolation d'un plancher par l'intérieur;isolation d'un plancher par l'interieur;isolation-plancher-interieur
+Chauffage et eau chaude sanitaire;Chaudière biomasse;chaudière biomasse;chaudiere biomasse;chaudiere-biomasse
+Chauffage et eau chaude sanitaire;Chaudière gaz;chaudière gaz;chaudiere gaz;chaudiere-gaz
+Chauffage et eau chaude sanitaire;Chauffe-bain;chauffe-bain;chauffe-bain;chauffe-bain
+Chauffage et eau chaude sanitaire;Chauffe-eau solaire;chauffe-eau solaire;chauffe-eau solaire;chauffe-eau-solaire
+Chauffage et eau chaude sanitaire;Chauffe-eau thermodynamique;chauffe-eau thermodynamique;chauffe-eau thermodynamique;chauffe-eau-thermodynamique
+Chauffage et eau chaude sanitaire;Radiateur électrique;radiateur électrique;radiateur electrique;radiateur-electrique
+Chauffage et eau chaude sanitaire;Plancher chauffant basse température;plancher chauffant basse température;plancher chauffant basse temperature;plancher-chauffant-basse-temperature
+Chauffage et eau chaude sanitaire;Radiateur basse température;radiateur basse température;radiateur basse temperature;radiateur-basse-temperature
+Chauffage et eau chaude sanitaire;Poêle et insert;poêle et insert;poele et insert;poele-insert
+Chauffage et eau chaude sanitaire;Pompe à chaleur air/air;pompe à chaleur air/air;pompe a chaleur air/air;pompe-chaleur-air-air
+Chauffage et eau chaude sanitaire;Pompe à chaleur air/eau;pompe à chaleur air/eau;pompe a chaleur air/eau;pompe-chaleur-air-eau
+Chauffage et eau chaude sanitaire;Pompe à chaleur eau/eau;pompe à chaleur eau/eau;pompe a chaleur eau/eau;pompe-chaleur-eau-eau
+Chauffage et eau chaude sanitaire;Pompe à chaleur hybride;pompe à chaleur hybride;pompe a chaleur hybride;pompe-chaleur-hybride
+Chauffage et eau chaude sanitaire;Pompe à chaleur sol/eau;pompe à chaleur sol/eau;pompe a chaleur sol/eau;pompe-chaleur-sol-eau
+Chauffage et eau chaude sanitaire;Réseau de chaleur;réseau de chaleur;reseau de chaleur;reseau-chaleur
+Chauffage et eau chaude sanitaire;Système solaire combiné;système solaire combiné;systeme solaire combine;systeme-solaire-combine
+Chauffage et eau chaude sanitaire;Système solaire hybride;système solaire hybride;systeme solaire hybride;systeme-solaire-hybride

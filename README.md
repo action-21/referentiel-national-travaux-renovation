@@ -1,6 +1,6 @@
 # Référentiel national des travaux de rénovation énergétique
 
-Proposition de service public numérique de référencement des travaux de rénovation énergétique.
+![[README_HEADER.md]]
 
 ## 🎯 Quoi ?
 
@@ -8,11 +8,26 @@ Un service public numérique pour référencer les travaux de rénovation énerg
 
 ### Cas d'usage
 
-- Suivre l'évolution des travaux de rénovation énergétique
-- Sécuriser le traitement des données relatives aux travaux
-- Enrichir la base de données publiques des bâtiments
-- Garantir l'interopérabilité des données et services publiques
-- Améliorer l'efficacité de la lutte contre les fraudes
+#### Comptabilisation des travaux de rénovation énergétique
+
+- Obligation de déclaration des travaux dans le cadre des parcours de financement de la rénovation
+- Obligation de déclaration des travaux dans le cadre des réductions d'impôts locaux
+- Utilisation du RNT dans le cadre des interdictions de mise à la location
+
+#### Financement des travaux de rénovation énergétique
+
+- Utilisation du RNT comme source d'information de référence pour la description des travaux
+- Utilisation du RNT comme base de données commune pour les opérateurs de financement de la rénovation
+
+#### Accompagnement des travaux
+
+- Utilisation du RNT pour suivre l'évolution des travaux (engagement, réalisation, signalements)
+- Utilisation du RNT pour identifier les étapes de rénovation à entreprendre (rénovation par étapes)
+
+#### Contrôle des travaux
+
+- Utilisation du RNT pour optimiser l'échantillonage des travaux à contrôler
+- Utilisation du RNT pour améliorer l'évaluation du risque de fraudes
 
 ## 💬 Pourquoi ?
 
@@ -56,5 +71,20 @@ Le Référentiel national des travaux de rénovation énergétique propose deux 
 
 ## ❣️ Contribuer
 
-- [Sur GitHub](https://github.com/action-21/referentiel-national-travaux-renovation)
-- [Sur discord](https://discord.com/channels/1385249065536720966/1385901445513216150)
+Merci de consacrer de votre temps au développement de ce projet.
+
+Nous vous invitons à prendre connaissance du [Code de conduite](/CODE_OF_CONDUCT.md).
+
+### Comment contribuer ?
+
+- Vous pouvez échanger avec la communauté directement depuis l'onglet Discussions, ou sur [Discord](https://discord.com/channels/1385249065536720966/1385901445513216150).
+
+- Vous pouvez proposer vos suggestions, améliorations ou correctifs depuis l'onglet Issues.
+
+- Vous pouvez ouvrir une pull request pour apporter une modification au projet
+
+Merci beaucoup !
+
+## 🙏 Crédits
+
+Ce projet s'inspire du [Référentiel National des Bâtiments](https://rnb.beta.gouv.fr/).

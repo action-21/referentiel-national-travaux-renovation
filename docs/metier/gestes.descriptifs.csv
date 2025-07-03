@@ -1,0 +1,62 @@
+﻿poste;geste;slug;descriptif
+Menuiseries extérieures;Fenêtre et porte-fenêtres;fenetre-porte-fenetres;nombre
+Menuiseries extérieures;Fenêtre et porte-fenêtres;fenetre-porte-fenetres;coefficient_surfacique
+Menuiseries extérieures;Porte;porte;nombre
+Menuiseries extérieures;Porte;porte;coefficient_surfacique
+Réseau;Isolation d'un réseau de chauffage;isolation-reseau-chauffage;longueur
+Réseau;Isolation d'un réseau d'eau chaude sanitaire;isolation-reseau-eau-chaude-sanitaire;longueur
+Réseau;Isolation d'un point singulier d'un réseau;isolation-point-singulier-reseau;nombre
+Refroidissement;Climatiseur;climatiseur;seer
+Régulation;Régulation par sonde de température extérieure;regulation-sonde-temperature-exterieure;nombre
+Régulation;Robinet thermostatique;robinet-thermostatique;nombre
+Régulation;Système de comptage d'énergie de chauffage;systeme-comptage-energie-chauffage;nombre
+Régulation;Système de régulation par programmation d'intermittence;systeme-regulation-programmation-intermittence;nombre
+Régulation;Système de régulation de la consommation d'un chauffe-eau électrique à effet Joule;systeme-regulation-consommation-chauffe-eau-electrique-effet-joule;nombre
+Protections solaires;Fermeture isolante;fermeture-isolante;nombre
+Isolation des combles et toitures;Isolation des planchers de combles perdus;isolation-planchers-combles-perdus;resistance_thermique
+Isolation des combles et toitures;Isolation des rampants de toiture par l'extérieur;isolation-rampants-toiture-exterieur;resistance_thermique
+Isolation des combles et toitures;Isolation des rampants de toiture par l'intérieur;isolation-rampants-toiture-interieur;resistance_thermique
+Isolation des combles et toitures;Isolation d'une toiture terrasse par l'extérieur;isolatione-toiture-terrasse-exterieur;resistance_thermique
+Isolation des murs;Isolation des murs par l'extérieur;isolation-murs-exterieur;resistance_thermique
+Isolation des murs;Isolation des murs par l'intérieur;isolation-murs-interieur;resistance_thermique
+Isolation des planchers bas;Isolation d'un plancher par l'extérieur;isolation-plancher-exterieur;resistance_thermique
+Isolation des planchers bas;Isolation d'un plancher par l'intérieur;isolation-plancher-interieur;resistance_thermique
+Chauffage et eau chaude sanitaire;Chaudière biomasse;chaudiere-biomasse;puissance
+Chauffage et eau chaude sanitaire;Chaudière biomasse;chaudiere-biomasse;etas
+Chauffage et eau chaude sanitaire;Chaudière gaz;chaudiere-gaz;puissance
+Chauffage et eau chaude sanitaire;Chaudière gaz;chaudiere-gaz;etas
+Chauffage et eau chaude sanitaire;Chauffe-bain;chauffe-bain;puissance
+Chauffage et eau chaude sanitaire;Chauffe-bain;chauffe-bain;etas
+Chauffage et eau chaude sanitaire;Chauffe-eau solaire;chauffe-eau-solaire;puissance
+Chauffage et eau chaude sanitaire;Chauffe-eau thermodynamique;chauffe-eau-thermodynamique;puissance
+Chauffage et eau chaude sanitaire;Chauffe-eau thermodynamique;chauffe-eau-thermodynamique;scop
+Chauffage et eau chaude sanitaire;Radiateur électrique;radiateur-electrique;nombre
+Chauffage et eau chaude sanitaire;Radiateur électrique;radiateur-electrique;puissance
+Chauffage et eau chaude sanitaire;Radiateur basse température;radiateur-basse-temperature;nombre
+Chauffage et eau chaude sanitaire;Poêle et insert;poele-insert;nombre
+Chauffage et eau chaude sanitaire;Poêle et insert;poele-insert;puissance
+Chauffage et eau chaude sanitaire;Pompe à chaleur air/air;pompe-chaleur-air-air;nombre
+Chauffage et eau chaude sanitaire;Pompe à chaleur air/air;pompe-chaleur-air-air;puissance
+Chauffage et eau chaude sanitaire;Pompe à chaleur air/air;pompe-chaleur-air-air;scop
+Chauffage et eau chaude sanitaire;Pompe à chaleur air/eau;pompe-chaleur-air-eau;nombre
+Chauffage et eau chaude sanitaire;Pompe à chaleur air/eau;pompe-chaleur-air-eau;puissance
+Chauffage et eau chaude sanitaire;Pompe à chaleur air/eau;pompe-chaleur-air-eau;scop
+Chauffage et eau chaude sanitaire;Pompe à chaleur eau/eau;pompe-chaleur-eau-eau;nombre
+Chauffage et eau chaude sanitaire;Pompe à chaleur eau/eau;pompe-chaleur-eau-eau;puissance
+Chauffage et eau chaude sanitaire;Pompe à chaleur eau/eau;pompe-chaleur-eau-eau;scop
+Chauffage et eau chaude sanitaire;Pompe à chaleur hybride;pompe-chaleur-hybride;nombre
+Chauffage et eau chaude sanitaire;Pompe à chaleur hybride;pompe-chaleur-hybride;puissance
+Chauffage et eau chaude sanitaire;Pompe à chaleur hybride;pompe-chaleur-hybride;scop
+Chauffage et eau chaude sanitaire;Pompe à chaleur sol/eau;pompe-chaleur-sol-eau;nombre
+Chauffage et eau chaude sanitaire;Pompe à chaleur sol/eau;pompe-chaleur-sol-eau;puissance
+Chauffage et eau chaude sanitaire;Pompe à chaleur sol/eau;pompe-chaleur-sol-eau;scop
+Chauffage et eau chaude sanitaire;Réseau de chaleur;reseau-chaleur;nombre
+Chauffage et eau chaude sanitaire;Réseau de chaleur;reseau-chaleur;puissance
+Chauffage et eau chaude sanitaire;Réseau de chaleur;reseau-chaleur;scop
+Chauffage et eau chaude sanitaire;Système solaire combiné;systeme-solaire-combine;nombre
+Chauffage et eau chaude sanitaire;Système solaire combiné;systeme-solaire-combine;puissance
+Chauffage et eau chaude sanitaire;Système solaire combiné;systeme-solaire-combine;scop
+Chauffage et eau chaude sanitaire;Système solaire hybride;systeme-solaire-hybride;nombre
+Chauffage et eau chaude sanitaire;Système solaire hybride;systeme-solaire-hybride;puissance
+Chauffage et eau chaude sanitaire;Système solaire hybride;systeme-solaire-hybride;scop
+Refroidissement;Climatiseur;climatiseur;nombre

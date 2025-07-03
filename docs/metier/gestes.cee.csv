@@ -1,0 +1,91 @@
+﻿operation;geste
+BAR-EN-101 - Isolation de combles ou de toitures;Isolation des rampants de toiture par l'extérieur
+BAR-EN-101 - Isolation de combles ou de toitures;Isolation des rampants de toiture par l'intérieur
+BAR-EN-102 - Isolation des murs;Isolation des murs par l'extérieur
+BAR-EN-102 - Isolation des murs;Isolation des murs par l'intérieur
+BAR-EN-103 - Isolation d'un plancher;Isolation d'un plancher par l'extérieur
+BAR-EN-103 - Isolation d'un plancher;Isolation d'un plancher par l'intérieur
+BAR-EN-104 - Fenêtre ou porte-fenêtre complète avec vitrage isolant;Fenêtre et porte-fenêtres
+BAR-EN-104 - Fenêtre ou porte-fenêtre complète avec vitrage isolant;Porte
+BAR-EN-105 - Isolation des toitures terrasses;Isolation d'une toiture terrasse par l'extérieur
+BAR-EN-106 - Isolation de combles ou de toitures (France d'outre-mer);Isolation des planchers de combles perdus
+BAR-EN-107 - Isolation des murs (France d'outre-mer);Isolation des murs par l'extérieur
+BAR-EN-107 - Isolation des murs (France d'outre-mer);Isolation des murs par l'intérieur
+BAR-EN-108 - Fermeture isolante;Fermeture isolante
+BAR-EN-109 - Réduction des apports solaires par la toiture (France d'outre-mer);Protection solaire d'une toiture
+BAR-EN-110 - Fenêtre ou porte-fenêtre complète avec vitrage pariétodynamique;Fenêtre et porte-fenêtres
+BAR-EQ-101 - Lampe fluo-compacte de classe A;-
+BAR-EQ-102 - Lave-linge ménager de classe A++ ou A+++;-
+BAR-EQ-103 - Appareil de réfrigération ménager de classe A++ ou A+++;-
+BAR-EQ-110 - Luminaire à modules LED avec dispositif de contrôle pour les parties communes;-
+BAR-EQ-111 - Lampe à LED de classe A+ (< 01/10/2017) - Lampe de classe A++ (> 01/10/2017);-
+BAR-EQ-112 - Systèmes hydroéconomes (France métropolitaine);-
+BAR-EQ-113 - Dispositif d'affichage et d'interprétation des consommations pour un logement chauffé à l'électricité;-
+BAR-EQ-114 - Dispositif d'affichage et d'interprétation des consommations d'énergie pour un logement chauffé au combustible;-
+BAR-EQ-115 - Dispositif d'affichage et d'interprétation des consommations d'énergie;-
+BAR-SE-104 - Réglage des organes d'équilibrage d'une installation de chauffage à eau chaude;-
+BAR-SE-105 - Contrat de Performance Energétique Services (CPE Services);-
+BAR-SE-106 - Service de suivi des consommations d'énergie;-
+BAR-SE-107 - Abaissement de la température de retour vers un réseau de chaleur;-
+BAR-SE-108 - Désembouage d'un réseau hydraulique individuel de chauffage en France métropolitaine;-
+BAR-SE-109 - Désembouage d'un réseau hydraulique de chauffage collectif en France métropolitaine;-
+BAR-TH-101 - Chauffe-eau solaire individuel (France métropolitaine);Chauffe-eau solaire
+BAR-TH-102 - Chauffe-eau solaire collectif (France métropolitaine);Chauffe-eau solaire
+BAR-TH-104 - Pompe à chaleur de type air/eau ou eau/eau;Pompe à chaleur air/eau
+BAR-TH-104 - Pompe à chaleur de type air/eau ou eau/eau;Pompe à chaleur eau/eau
+BAR-TH-106 - Chaudière individuelle à haute performance énergétique;Chaudière gaz
+BAR-TH-107-SE - Chaudière collective haute performance énergétique avec contrat assurant la conduite de l'installation;Chaudière gaz
+BAR-TH-107 - Chaudière collective haute performance énergétique;Chaudière gaz
+BAR-TH-110 - Radiateur basse température pour un chauffage central;Radiateur basse température
+BAR-TH-111 - Régulation par sonde de température extérieure;Régulation par sonde de température extérieure
+BAR-TH-112 - Appareil indépendant de chauffage au bois;Poêle et insert
+BAR-TH-113 - Chaudière biomasse individuelle;Chaudière biomasse
+BAR-TH-115 - Isolation d'un réseau hydraulique de chauffage;Isolation d'un réseau de chauffage
+BAR-TH-116 - Plancher chauffant hydraulique à basse température;Plancher chauffant basse température
+BAR-TH-117 - Robinet thermostatique;Robinet thermostatique
+BAR-TH-118 - Système de régulation par programmation d'intermittence;Système de régulation par programmation d'intermittence
+BAR-TH-121 - Système de comptage individuel d'énergie de chauffage;Système de comptage d'énergie de chauffage
+BAR-TH-122 - Récupérateur de chaleur à condensation;Récupérateur de chaleur à condensation
+BAR-TH-123 - Optimiseur de relance en chauffage collectif;Optimiseur de relance
+BAR-TH-124 - Chauffe-eau solaire individuel (France d'outre mer);Chauffe-eau solaire
+BAR-TH-125 - Système de ventilation double flux autoréglable ou modulé à haute performance (France métropolitaine);Ventilation mécanique centralisée double flux
+BAR-TH-127 - Ventilation mécanique simple flux hygroréglable (France métropolitaine);Ventilation mécanique centralisée simple flux
+BAR-TH-129 - Pompe à chaleur de type air/air;Pompe à chaleur air/air
+BAR-TH-130 - Surperformance énergétique pour un bâtiment neuf (France métropolitaine);-
+BAR-TH-131 - Isolation d'un réseau hydraulique d'eau chaude sanitaire;Isolation d'un réseau d'eau chaude sanitaire
+BAR-TH-135 - Chauffe-eau solaire collectif (France d'outre mer);Chauffe-eau solaire
+BAR-TH-137 - Raccordement d'un bâtiment résidentiel à un réseau de chaleur;Réseau de chaleur
+BAR-TH-139 - Système de variation électronique de vitesse sur une pompe;Système de variation électronique de vitesse sur une pompe
+BAR-TH-141 - Climatiseur performant (France d'outre-mer);Climatiseur
+BAR-TH-143 - Système solaire combiné (France métropolitaine);Système solaire combiné
+BAR-TH-145 - Rénovation globale d'un bâtiment résidentiel (France métropolitaine);-
+BAR-TH-148 - Chauffe-eau thermodynamique à accumulation;Chauffe-eau thermodynamique
+BAR-TH-150 - Pompe à chaleur collective à absorption de type air/eau ou eau/eau;Pompe à chaleur air/eau
+BAR-TH-150 - Pompe à chaleur collective à absorption de type air/eau ou eau/eau;Pompe à chaleur eau/eau
+BAR-TH-155 - Ventilation hybride hygroréglable (France métropolitaine);Ventilation hybride
+BAR-TH-158 - Émetteur électrique à régulation électronique à fonctions avancées;Radiateur électrique
+BAR-TH-159 - Pompe à chaleur hybride individuelle;Pompe à chaleur hybride
+BAR-TH-160 - Isolation d'un réseau hydraulique de chauffage ou d'eau chaude sanitaire;Isolation d'un réseau de chauffage
+BAR-TH-160 - Isolation d'un réseau hydraulique de chauffage ou d'eau chaude sanitaire;Isolation d'un réseau d'eau chaude sanitaire
+BAR-TH-161 - Isolation de points singuliers d'un réseau;Isolation d'un point singulier d'un réseau
+BAR-TH-161 - Isolation de points singuliers d'un réseau;Isolation d'un point singulier d'un réseau
+BAR-TH-162 - Système énergétique comportant des capteurs solaires photovoltaïques et thermiques à circulation d'eau (France métropolitaine);Système solaire hybride
+BAR-TH-163 - Conduit d'évacuation des produits de combustion;Conduit d'évacuation des produits de combustion
+BAR-TH-164 - Rénovation globale d'une maison individuelle (France métropolitaine);-
+BAR-TH-165 - Chaudière biomasse collective;Chaudière biomasse
+BAR-TH-166 - Pompe à chaleur collective de type air/eau ou eau/eau;Pompe à chaleur air/eau
+BAR-TH-166 - Pompe à chaleur collective de type air/eau ou eau/eau;Pompe à chaleur eau/eau
+BAR-TH-167 - Chauffe-bain individuel à haut rendement ou à condensation (France métropolitaine);Chauffe-bain
+BAR-TH-168 - Dispositif solaire thermique (France métropolitaine);Système solaire combiné
+BAR-TH-168 - Dispositif solaire thermique (France métropolitaine);Système solaire hybride
+BAR-TH-168 - Dispositif solaire thermique (France métropolitaine);Chauffe-eau solaire
+BAR-TH-169 - Pompe à chaleur collective de type air/eau ou eau/eau pour l'eau chaude sanitaire;Chauffe-eau thermodynamique
+BAR-TH-170 - Récupération de chaleur fatale issue de serveurs informatiques pour l'eau chaude sanitaire collective;-
+BAR-TH-171 - Pompe à chaleur de type air/eau;Pompe à chaleur air/eau
+BAR-TH-172 - Pompe à chaleur de type eau/eau ou sol/eau;Pompe à chaleur eau/eau
+BAR-TH-172 - Pompe à chaleur de type eau/eau ou sol/eau;Pompe à chaleur sol/eau
+BAR-TH-173 - Système de régulation par programmation horaire pièce par pièce;Système de régulation par programmation d'intermittence
+BAR-TH-174 - Rénovation d'ampleur d'une maison individuelle (France métropolitaine);-
+BAR-TH-175 - Rénovation d'ampleur d'un appartement (France métropolitaine);-
+BAR-TH-176 - Système de régulation de la consommation d'un chauffe-eau électrique à effet Joule;Système de régulation de la consommation d'un chauffe-eau électrique à effet Joule
+BAR-TH-177 - Rénovation globale d'un bâtiment résidentiel collectif (France métropolitaine);-

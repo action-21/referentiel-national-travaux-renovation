@@ -74,12 +74,15 @@ Un Geste DOIT être associé à un bâtiment référencé au Référentiel Natio
 classDiagram
   class Poste {
     <<enum>>
+    + code() string
   }
   class Geste {
     <<enum>>
+    + code() string
   }
   class Statut {
     <<enum>>
+    + code() string
   }
   class Adresse {
       +id: string
@@ -94,7 +97,7 @@ classDiagram
       +id: string
       +is_active: boolean
   }
-  class Declaration {
+  class DeclarationTravaux {
     id: string
     poste: Poste
     geste: Geste
@@ -105,9 +108,9 @@ classDiagram
     batiment: Batiment
   }
 
-  Declaration --o Poste
-  Declaration --o Geste
-  Declaration --o Statut
-  Declaration --o Adresse
-  Declaration --o Batiment
+  DeclarationTravaux --o Poste
+  DeclarationTravaux --o Geste
+  DeclarationTravaux --o Statut
+  DeclarationTravaux --o Adresse
+  DeclarationTravaux --o Batiment
 ```
